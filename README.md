@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Roberto
+# 👨‍💻 Gustavo Roberto
 
 **`Desenvolvedor FullStack`**
 
