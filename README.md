@@ -84,8 +84,8 @@ Sou apaixonado por tecnologia e sempre busco novos desafios. No meu [LinkedIn](h
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="152" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
