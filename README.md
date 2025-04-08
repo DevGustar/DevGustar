@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-AAA
+SQL, Excel e Power BI
 
 ### 📊 Estatísticas
 
