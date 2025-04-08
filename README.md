@@ -4,6 +4,8 @@
 
 Olá! Me chamo Gustavo Roberto, tenho 21 anos e sou natural de São Paulo - SP. Minha jornada na tecnologia começou com um curso técnico na FIEB e uma graduação em Redes de Computadores pela Anhembi Morumbi. Atualmente, estou expandindo meus conhecimentos cursando Análise e Desenvolvimento de Sistemas na FECAP.
 
+Atuo como Analista de Dados no Santander, onde trabalho com tecnologias como SQL, SAS, Excel e Power BI para transformar dados em insights estratégicos.
+
 Sou apaixonado por tecnologia e sempre busco novos desafios. No meu [LinkedIn](https://www.linkedin.com/in/gustavo-roberto-0aa488288/), compartilho minhas experiências com projetos, palestras e aprendizados na área.
 
 ---
