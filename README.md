@@ -2,7 +2,11 @@
 
 **`Analista de Dados`**
 
-SQL, Excel e Power BI
+Sou Gustavo Roberto, tenho 21 anos e meu objetivo é, um dia, me tornar um Líder. Estou estagiando como Analista de Dados no Santander Brasil, e as tecnologias que eu uso em meu dia a dia são:
+- SAS;
+- SQL;
+- Excel;
+- Power BI.
 
 ### 📊 Estatísticas
 
