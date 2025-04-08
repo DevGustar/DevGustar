@@ -1,6 +1,6 @@
 # 👨‍💻 Gustavo Roberto
 
-**`Desenvolvedor FullStack`**
+**`Analista de Dados`**
 
 Olá! Me chamo Gustavo Roberto, tenho 21 anos e sou natural de São Paulo - SP. Minha jornada na tecnologia começou com um curso técnico na FIEB e uma graduação em Redes de Computadores pela Anhembi Morumbi. Atualmente, estou expandindo meus conhecimentos cursando Análise e Desenvolvimento de Sistemas na FECAP.
 
