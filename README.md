@@ -9,7 +9,7 @@
 - Excel;
 - Power BI.
 
-Com elas, posso gerar insights que contribuem nas tomadas de decisões estratégicas. Agora que você já me conhece um pouquinho melhor, que tal se <a href="https://www.linkedin.com/in/gustavo-roberto-0aa488288/" target="_blank">conectar</a> comigo e acompanhar minha jornada?
+Com elas, posso gerar insights que contribuem nas tomadas de decisões estratégicas. Agora que você já me conhece um pouquinho melhor, que tal se [conectar](https://www.linkedin.com/in/gustavo-roberto-0aa488288/) comigo e acompanhar minha jornada?
 
 ### 📊 Estatísticas
 
