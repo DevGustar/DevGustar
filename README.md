@@ -9,7 +9,7 @@ Me chamo Gustavo Roberto, tenho 21 anos e meu objetivo é me tornar, algum dia, 
 - Excel;
 - Power BI.
 
-Com elas, posso gerar insights que contribuem nas tomadas de decisões. Agora, que tal se conectar comigo e acompanhar minha jornada? Confira meu [LinkedIn](https://www.linkedin.com/in/gustavo-roberto-0aa488288/)
+Com elas, posso gerar insights que contribuem nas tomadas de decisões. Agora, que tal se [conectar](https://www.linkedin.com/in/gustavo-roberto-0aa488288/) comigo e acompanhar minha jornada?
 
 ### 📊 Estatísticas
 
