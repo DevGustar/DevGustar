@@ -2,11 +2,14 @@
 
 **`Analista de Dados`**
 
-Sou Gustavo Roberto, tenho 21 anos e meu objetivo é, um dia, me tornar um Líder. Estou estagiando como Analista de Dados no Santander Brasil, e as tecnologias que eu uso em meu dia a dia são:
+Me chamo Gustavo Roberto, tenho 21 anos e meu objetivo é me tornar, algum dia, um bom líder. Quero ser capaz de gerar impacto positivo e ser alguém indispensável para qualquer grande empresa. Atualmente, estou estagiando como Analista de Dados no Santander Brasil, onde atuo com foco em análise ETL (Extract, Transform and Load). No meu dia a dia, utilizo ferramentas como:
+
 - SAS;
 - SQL;
 - Excel;
 - Power BI.
+
+Com elas, posso gerar insights que contribuem nas tomadas de decisões.
 
 ### 📊 Estatísticas
 
