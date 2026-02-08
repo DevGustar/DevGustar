@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-👋 Olá! Me chamo Gustavo Roberto, tenho 22 anos e meu objetivo é me tornar, algum dia, um bom líder. Quero ser capaz de gerar impacto positivo e ser alguém indispensável para qualquer grande empresa. Estou estagiando como Analista de Dados no Santander Brasil, onde atuo com foco em análise ETL (Extract, Transform and Load). No meu dia a dia, utilizo ferramentas como:
+👋 Olá! Me chamo Gustavo Roberto, tenho 22 anos e meu objetivo é me tornar, algum dia, um bom líder. Quero ser capaz de gerar impacto positivo e ser alguém indispensável. Estou estagiando como Analista de Dados no Santander Brasil, onde atuo com foco em análise ETL (Extract, Transform and Load). No meu dia a dia, utilizo ferramentas como:
 
 - SAS;
 - SQL;
