@@ -4,7 +4,7 @@
 
 👋 Olá! Me chamo Gustavo Roberto, profissional de People Analytics com dois anos de experiência como Data Analyst no setor de Recursos Humanos.
 
-Minha atuação consiste em estruturar a inteligência de dados da área através de:
+Minha atuação consiste em estruturar a inteligência de dados da área através de:<br>
 • Desenvolvimento de dashboards em Power BI para visualização de indicadores e relatórios gerenciais.
 • Otimização de processos analíticos e manipulação de bancos de dados utilizando SQL e Excel.
 • Criação e refinamento de automações para ganho de escala e eficiência nas rotinas operacionais do setor.
